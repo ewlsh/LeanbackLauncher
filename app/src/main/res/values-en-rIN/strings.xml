@@ -22,7 +22,7 @@
     <string name="app_label">Home screen</string>
     <string name="app_name">Leanback Launcher</string>
     <string name="apps_order_pref_label">Sort automatically by recent usage</string>
-    <string name="category_label_apps">apps</string>
+    <string name="category_label_apps">Apps</string>
     <string name="category_label_games">Games</string>
     <string name="category_label_inputs">Inputs</string>
     <string name="category_label_settings" />
@@ -108,11 +108,11 @@ To enable, go to Settings"</string>
     <string name="restore_pending">Restore pending…</string>
     <string name="search_hint_text">Search movies, TV and more</string>
     <string name="search_menu_title">Search</string>
-    <string name="select_app_order_action_description_fixed">Customise order</string>
-    <string name="select_app_order_action_description_recency">Recency order</string>
+    <string name="select_app_order_action_fixed">Customise order</string>
+    <string name="select_app_order_action_recency">Recency order</string>
     <string name="select_app_order_action_title">Organise apps and games</string>
     <string name="select_app_order_content_title">Organise apps and games</string>
-    <string name="settings_dialog_title">Home screen</string>
+    <string name="settings_dialog_title">Home Screen</string>
     <string name="settings_network">Network settings</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_app_edit_mode">Re-order apps mode</string>
